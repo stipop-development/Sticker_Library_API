@@ -4,7 +4,7 @@
 </h1>
 
 
-<h4 align="center">Sticker Library API v0.1 <br> 스티커(이모티콘) 라이브러리 API v0.1 - 스티커 스토어 설치는 <a href="https://github.com/stipop-development/Sticker_Store_API_KR/blob/master/README.md" target="_blank">여기서</a> 확인해주세요.</h4>
+<h4 align="center">Sticker Library API v0.1</h4>
 
 <p align="center">
   <a href="#Intro">Intro</a> •
