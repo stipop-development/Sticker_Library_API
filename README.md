@@ -29,9 +29,9 @@
 
 > Stipop provides a powerful and flexible sticker API that enables companies to add stickers onto their apps and websites with minimum effort and maximum effect.
 
-Stickers are one of the most powerful visual contents you can find in the digital world. With more than 50 billion being sent everyday, and unlike GIFs, it brings emotion into online communicaton, because a specific artist created it with a purpose (for online communication, character etc.) this makes stickers very unique and usable and tailored to all tastes. 
+Stickers are one of the most powerful visual contents you can find in the digital world. With more than 50 billion being sent everyday, it brings emotion into online communicaton. Because stickers are created by an artist with a specific purpose, they are very unique, usable and tailored to all tastes. 
 
-Seeing how sticker are a useful kind of media, we as a team started a platform, where stickers and sticker lovers can play about. Our product began as an app for messenger users to download stickers for their personal use. Now that there is more than 5,000 sticker artists participating from 15 different countries and the total stickers accumulate to 100,000 we thought it would be best that other companies should also be able to provide stickers to their own users.
+Seeing how sticker is a useful kind of media, we as a team started a platform, where stickers and sticker lovers can play about. Our product began as an app for messenger users to download stickers for their personal use. Now that there is more than 5,000 sticker artists participating from 25 different countries and the total stickers accumulate to 100,000 we wanted other companies to able to provide stickers to their own users.
 
 
 ## Key Features
@@ -43,9 +43,9 @@ Seeing how sticker are a useful kind of media, we as a team started a platform, 
 /Korean
 * Regional Best
   - Top 100 download list provided in specified langauge speaking countries
-* Daily Update
-  - All sticker list updated in a daily basis with new stickers added in automatically
-* Favorites (preparing)
+* Weekly Update
+  - All sticker list updated in a weekly basis with new stickers added in automatically
+* Favorites (coming soon)
   - API to provide list of stickers used the most by a specific end user
 
 
